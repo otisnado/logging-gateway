@@ -1,0 +1,10 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/go:latest",
+
+//   "customizations": {
+//     "vscode": {
+//       "extensions": ["streetsidesoftware.code-spell-checker"]
+//     }
+//   },
+  "forwardPorts": [3000]
+}
